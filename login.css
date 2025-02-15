@@ -1,0 +1,100 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.center{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 25px;
+    column-gap: -2000px;
+}
+
+
+.fa {
+    padding: 7px;
+    font-size: 25px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+  .fa:hover {
+      background-color: #ff6600;
+      transition: background-color 1s;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+  label{
+    margin-left: 50px;
+  }
+  input{
+    width: 350px;
+    height: 20px;
+    margin: 10px;
+    margin-left: 50px;
+  }
+  .left{
+    margin-left: 50px;
+  }
+  button{
+    background-color: #ff6600;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    border: none;
+    height: 30px;
+    width: 450px;
+    text-align: center;
+    margin-top: 20px;
+    cursor: pointer;
+    
+  }
+.button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+  button a{
+    color: black;
+    text-decoration: none;
+  }
+
+  .left2{
+    margin-left: 50px;
+  }
+
+  .icon{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    column-gap: 10px;
+  }
+
+  .footer{
+    background-color:rgb(54, 54, 54) ;
+    color: white;
+    height: 70px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   margin-left: -15px;
+   margin-bottom: -20px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 17px;
+}

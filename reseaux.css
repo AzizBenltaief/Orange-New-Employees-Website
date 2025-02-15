@@ -1,0 +1,68 @@
+.title{
+    height: 50px;
+}
+img{
+    height: 45px;
+    width: 80px;
+    margin-top: -115px;
+}
+.tit{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.detail{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.btn{
+    background-color: rgb(255, 102, 0);
+    height: 25px;
+    border-radius: 10px;
+    border: none;
+    margin-bottom: 10px;
+}
+.btn a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 5px;
+    font-size: 15px;
+}
+
+button:hover{
+    background-color: #ff6600;
+}
+hr{
+    width: 90%;
+}
+
+.ajout{
+    background-color: rgb(54, 54, 54) ;
+    color: white;
+    height: 30px;
+    width: 130px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    margin: 30px;
+    margin-left: 330px;
+    margin-right: 350px;
+    cursor: pointer;
+}
+
+.footer{
+    background-color:rgb(54, 54, 54) ;
+    color: white;
+    height: 70px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   margin-left: -15px;
+   margin-bottom: -20px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 17px;
+}

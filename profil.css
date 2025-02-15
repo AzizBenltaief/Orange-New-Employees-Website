@@ -1,0 +1,46 @@
+.title{
+    height: 50px;
+}
+
+.soustitre{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cours{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 30px;
+}
+
+.para{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-top: 30px;
+    color:red;
+}
+
+.css-test{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-top: 30px;
+    font-weight: bold;
+    color:#ff6600;
+}
+
+.footer{
+    background-color:rgb(54, 54, 54) ;
+    color: white;
+    height: 70px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   margin-left: -15px;
+   margin-bottom: -20px;
+   font-family: Arial, Helvetica, sans-serif;
+  margin-top: 230px;
+  font-size: 17px;
+   
+}
