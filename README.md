@@ -47,7 +47,5 @@ At the end of the training, employees can take a multiple-choice **final exam** 
 - Validate their knowledge of client-handling protocols
 - Receive immediate feedback and a final score
 
----
 
-## 📁 Project Structure
 
